@@ -10,4 +10,7 @@
  */
 echo phpinfo();
 
+//intern....
+//intern....
+
 ?>
