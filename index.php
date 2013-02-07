@@ -5,7 +5,7 @@
  * 
  * das wurde extern geschrieben
  * 
- * ...
+ * ... / ...
  * 
  */
 echo phpinfo();
